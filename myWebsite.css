@@ -191,7 +191,7 @@ footer p a{
   color: #fcf7f8;
 }
 
-@media (max-width: 390px){
+@media (max-width: 500px){
   .navbar div{
     font-size: 1.2rem;
     
